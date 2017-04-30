@@ -1,0 +1,12 @@
+module.exports={
+    multicast:"239.0.0.1",
+    udp_port:"1988",
+    tcp_port:"2205",
+    instruments:{
+        "piano":"ti-ta-ti",
+        "trumpet":"pouet",
+        "flute":"trulu",
+        "violin":"gzi-gzi",
+        "drum":"boum-boum"
+    }
+}
